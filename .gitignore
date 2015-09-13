@@ -29,3 +29,5 @@
 *.sdf
 *.opensdf
 *.suo
+Debug
+x64
